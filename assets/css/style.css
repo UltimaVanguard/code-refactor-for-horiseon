@@ -1,13 +1,16 @@
+/* Universal Selectors */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
 
+/* CSS for Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,16 +49,14 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* CSS for Main Content */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* CSS for Aside Content */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -67,6 +68,11 @@ aside {
     background-color: #2589bd;
 }
 
+p {
+    font-size: 16px;
+}
+
+/* CSS for Footer */
 footer {
     padding: 30px;
     clear: both;
@@ -78,6 +84,8 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Class Selectors */
+/* Background Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -97,6 +105,7 @@ footer h2 {
     margin-left: 25px;
 }
 
+/* CSS for Main Content */
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,6 +124,7 @@ footer h2 {
     font-size: 36px;
 }
 
+/* CSS for Aside Content */
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
