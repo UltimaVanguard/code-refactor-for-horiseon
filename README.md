@@ -14,7 +14,7 @@ You can access the website using https://ultimavanguard.github.io/code-refactor-
 
 You can click on the three links on the header to take you the appropriate sections. 
 
-![alt text](https://github.com/UltimaVanguard/code-refactor-for-horiseon/assets/images/website.png
+![alt text](https://github.com/UltimaVanguard/code-refactor-for-horiseon/blob/main/assets/images/Website.png)
 
 You can view the HTML to see the semantic elements I added and look through CSS to see how I restructured it. I also added comments in both files to help understand the flow and what is happening in each section.
 
